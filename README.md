@@ -89,7 +89,7 @@ This is a **desktop GUI application**, so it runs locally on your system and not
 
 ![ML Forecast](images/ml_forecast.png)
 
-### 🌫️ AQI Monitor
+### 🌬️ AQI Monitor
 
 ![AQI Monitor](images/aqi_monitor.png)
 
