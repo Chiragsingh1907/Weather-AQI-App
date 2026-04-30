@@ -3,7 +3,7 @@
 ## 👥 Team Members
 
 * Chirag Singh
-* Gaurav Bakshi
+* Gaurav Bakshi 
 * Varanya Thapa
 
 ---
