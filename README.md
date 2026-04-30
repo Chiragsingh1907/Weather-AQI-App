@@ -4,7 +4,7 @@
 
 * Chirag Singh
 * Gaurav Bakshi 
-* Varanya Thapa
+* Varanya Thapa 
 
 ---
 
